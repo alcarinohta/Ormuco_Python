@@ -10,4 +10,4 @@ The function can be found in the file `overlap.py` in the questionA folder.
 ## The Test
   A program to test the solution was created `test.py`. Where four random numbers will be generated and passed as paramenters to `overlaped` function and it will prints the values of each line and if overlap is true or false. There are two tests, one to verify integer numbers and the other one to verifiy float numbers. In the terminal run `python test.py`
   
-![Test Output Example](Ormuco_Python/questionA/test_output.JPG)
+![Test Output Example](alcarinohta/Ormuco_Python/questionA/test_output.JPG)
